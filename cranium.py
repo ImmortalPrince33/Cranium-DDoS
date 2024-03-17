@@ -1,11 +1,11 @@
 # ----------------------------------------------------------------------------------------------
-# Saphyra - DDoS Tool
+# Cranium - DDoS Tool
 #
 # The DDoS Protocol is the most massive type of attack
-# This tool can tangodown nasa and more gov websites
+# This tool can take down well protected websites (Not Big Websites like gov websites and dont even think of trying to take down gov sites.)
 # 
 #
-# author : Anonymous , version 1.0
+# author : ImortalPrince33 , version 1.0
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys
