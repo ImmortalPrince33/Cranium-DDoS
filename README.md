@@ -63,7 +63,7 @@ Try
 
 Please use this code at your own risk and NEVER TRY IT ON A WEBSITE OR ROUTER YOU DON'T HAVE PERMISSION FROM 
 
-I REPEAT NEVER.
+YOU WILL GET YOURSELF IN TROUBLE!.
 
 I am not responsible for any damages done.
 
