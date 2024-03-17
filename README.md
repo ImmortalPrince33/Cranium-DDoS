@@ -3,7 +3,7 @@ A complex python code to DDoS any website with a very easy usage.
 
 
 <p align="center">
-  <img alt="Downloads" src="https://github.com/ImmortalPrince33/Cranium-DDoS">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/ImmortalPrince33/Cranium-DDoS?color=dark-green">
   <img alt="Contributors" src="https://img.shields.io/github/contributors/ImmortalPrince33/Cranium-DDoS?color=dark-green">
   <img alt="Forks" src="https://img.shields.io/github/forks/ImmortalPrince33/Cranium-DDoS?style=social">
   <img alt="Stargazers" src="https://img.shields.io/github/stars/ImmortalPrince33/Cranium-DDoS?style=social">
