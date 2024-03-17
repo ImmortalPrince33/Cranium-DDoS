@@ -14,7 +14,7 @@ A complex python code to DDoS any website with a very easy usage.
 
     $ sudo su
 
-    $ git clone https: https://github.com/ImmortalPrince33/cranium-ddos.git
+    $ git clone https: https://github.com/ImmortalPrince33/Cranium-DDoS.git
 
     $ cd cranium-ddos
 
