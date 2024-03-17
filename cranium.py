@@ -5,7 +5,7 @@
 # This tool can take down well protected websites (Not Big Websites like gov websites and dont even think of trying to take down gov sites.)
 # 
 #
-# author : ImortalPrince33 , version 1.0
+# author : ImortalPrince33 , version 1.0.1
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys
