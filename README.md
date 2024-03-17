@@ -55,7 +55,4 @@ I am not responsible for any damages done
 
 
 
-https://imjo.in/QzaYw6    --INR Payments ONLY
-
-
 🖤🖤🖤
