@@ -2,6 +2,16 @@
 A complex python code to DDoS any website with a very easy usage.
 
 
+<p align="center">
+  <img alt="Downloads" src="https://github.com/ImmortalPrince33/Cranium-DDoS">
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/ImmortalPrince33/Cranium-DDoS?color=dark-green">
+  <img alt="Forks" src="https://img.shields.io/github/forks/ImmortalPrince33/Cranium-DDoS?style=social">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/ImmortalPrince33/Cranium-DDoS?style=social">
+  <img alt="Issues" src="https://img.shields.io/github/issues/ImmortalPrince33/Cranium-DDoS">
+  <img alt="License" src="https://img.shields.io/github/license/ImmortalPrince33/Cranium-DDoS">
+</p>
+
+
 
 # Tested On :- 
   > Kali Linux
@@ -51,11 +61,11 @@ Try
 
 # Disclaimer :
 
-Please use this code at your own risk and NEVER TRY IT ON A WEBSITE YOU DON'T HAVE PERMISSION FROM 
+Please use this code at your own risk and NEVER TRY IT ON A WEBSITE OR ROUTER YOU DON'T HAVE PERMISSION FROM 
 
 I REPEAT NEVER.
 
-I am not responsible for any damages done
+I am not responsible for any damages done.
 
 
 
