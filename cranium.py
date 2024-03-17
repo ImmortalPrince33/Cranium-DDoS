@@ -3462,7 +3462,7 @@ print \
           @@@@@%%%%@@@@@@@@@@%@@@@@@@%@@@@@@@@@@@@@@@@@@@@         
           @@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@          
            @@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@           -Cranium DDOS (Individual Distributed Denial of Service)
-             @@@@%@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@             -Created by Anonymous
+             @@@@%@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@             -Created by ImmortalPrince33
                @@@@@@%%@@%@%@%%%%%@%@@%@@@@@@@@@@@@@               
                  @@@@@@@@%%%%%%%%%%%@@%@@@@@@@@@@@                 
                    @@@@@@%%%%%%%%%%%%%%@@@@@@@@@                   
@@ -3493,7 +3493,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
-			print "----->>> ! We are Anonymous - ExpectUS ! <<<-----"
+			print "----->>> ! We are Immortal ! <<<-----"
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
@@ -3535,7 +3535,7 @@ else:
 		sys.exit()
 	else:
 		print "Starting the Attack"
-		print "ANONYMOUS"
+		print "IMMORTAL"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
