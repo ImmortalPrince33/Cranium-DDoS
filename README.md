@@ -1,4 +1,4 @@
-# Saphyra-DDoS
+# Cranium-DDoS
 A complex python code to DDoS any website with a very easy usage.
 
 
@@ -14,13 +14,13 @@ A complex python code to DDoS any website with a very easy usage.
 
     $ sudo su
 
-    $ git clone https://github.com/anonymous24x7/Saphyra-DDoS.git
+    $ git clone https: https://github.com/ImmortalPrince33/cranium-ddos.git
 
-    $ cd Saphyra-DDoS
+    $ cd cranium-ddos
 
-    $ chmod +x saphyra.py
+    $ chmod +x cranium.py
 
-    $ python saphyra.py
+    $ python cranium.py
 
 
 
@@ -38,7 +38,9 @@ Try
 
 # Usage :
 
-    $ python saphyra.py https://example.com
+    $ python cranium.py https://example.com 
+    or
+    $ python cranium.py (input public IP with port)
 
 
 
@@ -48,10 +50,9 @@ Please use this code at your own risk and NEVER TRY IT ON A WEBSITE YOU DON'T HA
 
 I REPEAT NEVER.
 
+I am not responsible for any damages done
 
 
-# Wish me LUCK💵
-https://www.buymeacoffee.com/anonymous24x7
 
 
 https://imjo.in/QzaYw6    --INR Payments ONLY
