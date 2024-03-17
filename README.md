@@ -26,11 +26,11 @@ A complex python code to DDoS any website with a very easy usage.
 
     $ git clone https: https://github.com/ImmortalPrince33/Cranium-DDoS.git
 
-    $ cd cranium-ddos
+    $ cd Cranium-DDoS
 
-    $ chmod +x cranium.py
+    $ chmod +x cranium-1.0.1.py
 
-    $ python cranium.py
+    $ python cranium-1.0.1.py
 
 
 
@@ -49,13 +49,13 @@ Try
 # Usage :
 
  # For Websites:
-    $ python cranium.py https://example.com 
+    $ python cranium-1.0.1.py https://example.com 
 
  # Routers:
 
     ping (IP)
     
-    $ python cranium.py (input public IP with port)
+    $ python cranium-1.0.1.py (input public IP with port)
 
 
 
