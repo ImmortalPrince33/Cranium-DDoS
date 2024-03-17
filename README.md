@@ -38,8 +38,13 @@ Try
 
 # Usage :
 
+ # For Websites:
     $ python cranium.py https://example.com 
-    or
+
+ # Routers:
+
+    ping (IP)
+    
     $ python cranium.py (input public IP with port)
 
 
